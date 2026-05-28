@@ -1,0 +1,228 @@
+{
+  "segments": [
+    {
+      "segment": "architecture_fans",
+      "probability": 0.24,
+      "likes": [
+        "architecture",
+        "museum",
+        "religious",
+        "viewpoint"
+      ],
+      "budget_probs": {
+        "low": 0.16,
+        "medium": 0.54,
+        "high": 0.3
+      },
+      "mobility_probs": {
+        "walk": 0.22,
+        "bike": 0.08,
+        "transit": 0.45,
+        "mixed": 0.18,
+        "taxi": 0.07
+      },
+      "with_kids_probability": 0.08,
+      "crowd_aversion_mean": 0.42,
+      "sustainability_mean": 0.38,
+      "outdoor_mean": 0.34
+    },
+    {
+      "segment": "history_religion",
+      "probability": 0.15,
+      "likes": [
+        "religious",
+        "architecture",
+        "museum",
+        "local"
+      ],
+      "budget_probs": {
+        "low": 0.26,
+        "medium": 0.55,
+        "high": 0.19
+      },
+      "mobility_probs": {
+        "walk": 0.28,
+        "bike": 0.05,
+        "transit": 0.48,
+        "mixed": 0.16,
+        "taxi": 0.03
+      },
+      "with_kids_probability": 0.1,
+      "crowd_aversion_mean": 0.5,
+      "sustainability_mean": 0.48,
+      "outdoor_mean": 0.35
+    },
+    {
+      "segment": "food_local_markets",
+      "probability": 0.18,
+      "likes": [
+        "food",
+        "market",
+        "local",
+        "shopping"
+      ],
+      "budget_probs": {
+        "low": 0.38,
+        "medium": 0.5,
+        "high": 0.12
+      },
+      "mobility_probs": {
+        "walk": 0.32,
+        "bike": 0.12,
+        "transit": 0.4,
+        "mixed": 0.13,
+        "taxi": 0.03
+      },
+      "with_kids_probability": 0.1,
+      "crowd_aversion_mean": 0.58,
+      "sustainability_mean": 0.62,
+      "outdoor_mean": 0.52
+    },
+    {
+      "segment": "family_green",
+      "probability": 0.17,
+      "likes": [
+        "family",
+        "park",
+        "beach",
+        "science"
+      ],
+      "budget_probs": {
+        "low": 0.28,
+        "medium": 0.52,
+        "high": 0.2
+      },
+      "mobility_probs": {
+        "walk": 0.18,
+        "bike": 0.1,
+        "transit": 0.47,
+        "mixed": 0.18,
+        "taxi": 0.07
+      },
+      "with_kids_probability": 0.68,
+      "crowd_aversion_mean": 0.7,
+      "sustainability_mean": 0.66,
+      "outdoor_mean": 0.82
+    },
+    {
+      "segment": "beach_nightlife",
+      "probability": 0.12,
+      "likes": [
+        "beach",
+        "nightlife",
+        "food",
+        "shopping"
+      ],
+      "budget_probs": {
+        "low": 0.34,
+        "medium": 0.48,
+        "high": 0.18
+      },
+      "mobility_probs": {
+        "walk": 0.25,
+        "bike": 0.16,
+        "transit": 0.35,
+        "mixed": 0.18,
+        "taxi": 0.06
+      },
+      "with_kids_probability": 0.04,
+      "crowd_aversion_mean": 0.34,
+      "sustainability_mean": 0.36,
+      "outdoor_mean": 0.78
+    },
+    {
+      "segment": "museum_culture",
+      "probability": 0.14,
+      "likes": [
+        "museum",
+        "architecture",
+        "local",
+        "science"
+      ],
+      "budget_probs": {
+        "low": 0.2,
+        "medium": 0.58,
+        "high": 0.22
+      },
+      "mobility_probs": {
+        "walk": 0.2,
+        "bike": 0.08,
+        "transit": 0.52,
+        "mixed": 0.16,
+        "taxi": 0.04
+      },
+      "with_kids_probability": 0.14,
+      "crowd_aversion_mean": 0.55,
+      "sustainability_mean": 0.54,
+      "outdoor_mean": 0.42
+    }
+  ],
+  "hotel_distribution": [
+    {
+      "neighbourhood": "Gotic",
+      "lat": 41.3839,
+      "lon": 2.1763,
+      "probability": 0.16
+    },
+    {
+      "neighbourhood": "El Raval",
+      "lat": 41.3812,
+      "lon": 2.1686,
+      "probability": 0.12
+    },
+    {
+      "neighbourhood": "Dreta Eixample",
+      "lat": 41.3918,
+      "lon": 2.1649,
+      "probability": 0.19
+    },
+    {
+      "neighbourhood": "Sagrada Familia",
+      "lat": 41.4036,
+      "lon": 2.1744,
+      "probability": 0.13
+    },
+    {
+      "neighbourhood": "La Barceloneta",
+      "lat": 41.3806,
+      "lon": 2.1894,
+      "probability": 0.08
+    },
+    {
+      "neighbourhood": "Vila de Gracia",
+      "lat": 41.4017,
+      "lon": 2.1565,
+      "probability": 0.09
+    },
+    {
+      "neighbourhood": "Poblenou",
+      "lat": 41.4004,
+      "lon": 2.2038,
+      "probability": 0.08
+    },
+    {
+      "neighbourhood": "Montjuic",
+      "lat": 41.3705,
+      "lon": 2.154,
+      "probability": 0.06
+    },
+    {
+      "neighbourhood": "Les Corts",
+      "lat": 41.386,
+      "lon": 2.13,
+      "probability": 0.04
+    },
+    {
+      "neighbourhood": "Sant Andreu",
+      "lat": 41.4335,
+      "lon": 2.1903,
+      "probability": 0.03
+    },
+    {
+      "neighbourhood": "Sarria",
+      "lat": 41.3987,
+      "lon": 2.1213,
+      "probability": 0.02
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-05-22T21:24:09",
+  "model": "ollama/qwen2.5:7b",
+  "n_tourists": 2000,
+  "steps": 5,
+  "seed": 42,
+  "data_dir": "data",
+  "output_dir": "outputs",
+  "llm_agents": [
+    "Input assumptions auditor",
+    "Sustainable tourism evaluator"
+  ],
+  "saved_files": [
+    "llm_input_audit.md",
+    "llm_interpretation.md",
+    "neighbourhood_distribution.png",
+    "neighbourhood_metrics.csv",
+    "poi_catalogue.csv",
+    "poi_metrics.csv",
+    "pois_used.csv",
+    "recommendations.csv",
+    "rule_config.json",
+    "rule_config_input.json",
+    "run_metadata.json",
+    "slots.csv",
+    "strategy_comparison.png",
+    "summary.csv",
+    "top_poi_crowding.png",
+    "tourist_profiles.json",
+    "tourists.csv",
+    "verified_findings.md",
+    "visits.csv"
+  ]
+}

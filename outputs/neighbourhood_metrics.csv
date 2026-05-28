@@ -1,0 +1,63 @@
+neighbourhood,visits,avg_satisfaction,central,visit_share,strategy
+Gotic,2450,0.6170931059229819,True,0.245,popularity
+Dreta Eixample,1542,0.569695112299795,True,0.1542,popularity
+La Salut,1402,0.6285534492093315,False,0.1402,popularity
+Sagrada Familia,1329,0.6413507661887193,True,0.1329,popularity
+El Raval,1292,0.617542045625172,True,0.1292,popularity
+La Rambla,1287,0.6511142724341313,True,0.1287,popularity
+La Barceloneta,655,0.6035589366686115,True,0.0655,popularity
+El Born,43,0.5078640316162146,True,0.0043,popularity
+Gotic,1197,0.6760196833725409,True,0.1197,personalized
+Sagrada Familia,869,0.715723252132929,True,0.0869,personalized
+Dreta Eixample,724,0.6566097282748821,True,0.0724,personalized
+La Salut,656,0.7113794103918111,False,0.0656,personalized
+Poblenou,651,0.7192584502727445,False,0.0651,personalized
+El Born,566,0.6517673921652529,True,0.0566,personalized
+La Rambla,556,0.7688460256755276,True,0.0556,personalized
+La Barceloneta,522,0.689592133948915,True,0.0522,personalized
+Montjuic,500,0.6486677930234408,False,0.05,personalized
+El Raval,444,0.7318758577087418,True,0.0444,personalized
+Vila de Gracia,442,0.6631941544096264,False,0.0442,personalized
+Tibidabo,439,0.6804596797449954,False,0.0439,personalized
+Guinardo,405,0.66019922644853,False,0.0405,personalized
+Diagonal Mar,394,0.7531102436176581,False,0.0394,personalized
+Sant Pere,345,0.7159797636242858,True,0.0345,personalized
+Sant Gervasi,277,0.6776806003100666,False,0.0277,personalized
+Fort Pienc,221,0.7377495956858817,False,0.0221,personalized
+Sant Antoni,207,0.7365519881157065,False,0.0207,personalized
+Glories,192,0.6379202550682078,False,0.0192,personalized
+Hostafrancs,132,0.7170939652993833,False,0.0132,personalized
+Nova Esquerra Eixample,86,0.7048940251006048,False,0.0086,personalized
+Horta,78,0.7044610191523208,False,0.0078,personalized
+El Clot,44,0.7004194570708203,False,0.0044,personalized
+Pedralbes,42,0.6350293220151517,False,0.0042,personalized
+Sant Andreu,11,0.615618738194608,False,0.0011,personalized
+Poblenou,541,0.7240119680206362,False,0.0541,sustainable
+Gotic,451,0.69075669252729,True,0.0451,sustainable
+Vila de Gracia,449,0.6628109909257559,False,0.0449,sustainable
+El Raval,438,0.7203561192058164,True,0.0438,sustainable
+La Salut,418,0.7007205330468509,False,0.0418,sustainable
+El Born,416,0.6472420343652672,True,0.0416,sustainable
+Sagrada Familia,412,0.7630237129257438,True,0.0412,sustainable
+Montjuic,410,0.6593275967287825,False,0.041,sustainable
+Guinardo,407,0.6696476525807579,False,0.0407,sustainable
+Fort Pienc,394,0.6736841833516244,False,0.0394,sustainable
+La Barceloneta,392,0.6834231294205884,True,0.0392,sustainable
+Tibidabo,381,0.6832322392161196,False,0.0381,sustainable
+La Rambla,370,0.7826586357651184,True,0.037,sustainable
+Pedralbes,366,0.6177653468165681,False,0.0366,sustainable
+Diagonal Mar,358,0.7564647769426538,False,0.0358,sustainable
+Sant Antoni,355,0.6635739967286057,False,0.0355,sustainable
+Sant Andreu,354,0.5778756796651602,False,0.0354,sustainable
+Sant Pere,352,0.7038240802071427,True,0.0352,sustainable
+Glories,351,0.6252205426127709,False,0.0351,sustainable
+Sant Gervasi,315,0.6289976511310434,False,0.0315,sustainable
+Hostafrancs,311,0.6471527664753564,False,0.0311,sustainable
+Nova Esquerra Eixample,304,0.649828019882913,False,0.0304,sustainable
+El Clot,303,0.637743964581459,False,0.0303,sustainable
+Dreta Eixample,300,0.6762380503240002,True,0.03,sustainable
+Sarria,247,0.5249189118725205,False,0.0247,sustainable
+Horta,196,0.6725393796580563,False,0.0196,sustainable
+El Carmel,161,0.5496402642754852,False,0.0161,sustainable
+Les Corts,139,0.5698385377595053,False,0.0139,sustainable
+Collserola,109,0.49906502480148507,False,0.0109,sustainable

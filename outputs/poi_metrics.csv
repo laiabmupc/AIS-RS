@@ -1,0 +1,184 @@
+poi_id,poi_name,neighbourhood,popularity,capacity,baseline_pressure,sustainable_value,visits,max_slot_crowd_ratio,strategy
+6,Barri Gotic,Gotic,0.89,1000,0.7785,0.4868,1553,0.384,popularity
+1,Park Guell,La Salut,0.95,850,0.6174999999999999,0.644,1402,0.5364705882352941,popularity
+0,Sagrada Familia,Sagrada Familia,1.0,900,0.8500000000000001,0.415,1329,0.5077777777777778,popularity
+5,Mercat de la Boqueria,El Raval,0.9,650,0.7850000000000001,0.4905,1292,0.49846153846153846,popularity
+4,La Rambla,La Rambla,0.93,1200,0.8045,0.4116,1287,0.3333333333333333,popularity
+7,Barcelona Cathedral,Gotic,0.84,550,0.746,0.42680000000000007,897,0.5872727272727273,popularity
+2,Casa Batllo,Dreta Eixample,0.91,500,0.7915000000000001,0.3992,823,0.444,popularity
+3,La Pedrera,Dreta Eixample,0.88,450,0.772,0.4031,719,0.5266666666666666,popularity
+12,Barceloneta Beach,La Barceloneta,0.82,1100,0.7330000000000001,0.5384,655,0.3481818181818182,popularity
+9,Picasso Museum,El Born,0.78,350,0.7070000000000001,0.46559999999999996,43,0.11714285714285715,popularity
+41,Pedralbes Gardens,Pedralbes,0.31,650,0.2015,0.6921999999999999,0,0.0,popularity
+45,Clot Park,El Clot,0.24,450,0.156,0.7247999999999999,0,0.0,popularity
+44,Sant Andreu Old Town,Sant Andreu,0.28,450,0.18200000000000002,0.6246,0,0.0,popularity
+43,Fabra i Coats,Sant Andreu,0.25,300,0.1625,0.636,0,0.0,popularity
+42,Labyrinth Park of Horta,Horta,0.37,500,0.2405,0.7469,0,0.0,popularity
+38,Hostafrancs Market,Hostafrancs,0.3,350,0.195,0.5770000000000001,0,0.0,popularity
+40,Pedralbes Monastery,Pedralbes,0.35,250,0.22749999999999998,0.737,0,0.0,popularity
+39,Joan Miro Park,Nova Esquerra Eixample,0.34,600,0.22100000000000003,0.7133,0,0.0,popularity
+47,Palo Alto Market,Poblenou,0.33,350,0.21450000000000002,0.6321000000000001,0,0.0,popularity
+37,Sant Antoni Market,Sant Antoni,0.42,450,0.273,0.5794,0,0.0,popularity
+46,Can Framis Museum,Poblenou,0.26,220,0.169,0.6252,0,0.0,popularity
+52,Creueta del Coll Park,La Salut,0.27,500,0.17550000000000002,0.7009000000000001,0,0.0,popularity
+48,Torre Bellesguard,Sant Gervasi,0.29,180,0.1885,0.6128,0,0.0,popularity
+49,CosmoCaixa,Sant Gervasi,0.57,550,0.3705,0.5054000000000001,0,0.0,popularity
+50,Museu Frederic Mares,Gotic,0.36,180,0.434,0.4817,0,0.0,popularity
+51,Chocolate Museum,El Born,0.39,220,0.4535,0.4373,0,0.0,popularity
+35,Born Centre Cultural,El Born,0.46,350,0.49900000000000005,0.5272,0,0.0,popularity
+53,Sarria Old Town,Sarria,0.25,400,0.1625,0.6225,0,0.0,popularity
+54,Mercat de la Llibertat,Vila de Gracia,0.29,300,0.1885,0.5808,0,0.0,popularity
+55,Guinardo Park,Guinardo,0.3,700,0.195,0.6905,0,0.0,popularity
+56,Carretera de les Aigues,Collserola,0.26,800,0.169,0.6627000000000001,0,0.0,popularity
+57,Natural Science Museum,Diagonal Mar,0.34,300,0.22100000000000003,0.5243,0,0.0,popularity
+58,Fabra Observatory,Tibidabo,0.28,200,0.18200000000000002,0.5876,0,0.0,popularity
+59,Olympic Port,La Barceloneta,0.5,700,0.525,0.46499999999999997,0,0.0,popularity
+36,History Museum of Catalonia,La Barceloneta,0.44,300,0.48600000000000004,0.5043,0,0.0,popularity
+30,Forum Park,Diagonal Mar,0.38,900,0.24700000000000003,0.6355999999999999,0,0.0,popularity
+34,MACBA,El Raval,0.56,320,0.5640000000000001,0.4852,0,0.0,popularity
+20,Temple del Tibidabo,Tibidabo,0.55,450,0.35750000000000004,0.6300000000000001,0,0.0,popularity
+8,Santa Maria del Mar,El Born,0.72,400,0.6679999999999999,0.47390000000000004,0,0.0,popularity
+10,Ciutadella Park,Sant Pere,0.69,1000,0.6485,0.6553,0,0.0,popularity
+11,Arc de Triomf,Sant Pere,0.61,700,0.5965,0.4657,0,0.0,popularity
+13,Montjuic Castle,Montjuic,0.63,500,0.40950000000000003,0.6511,0,0.0,popularity
+14,Magic Fountain,Montjuic,0.76,900,0.49400000000000005,0.4937,0,0.0,popularity
+15,MNAC,Montjuic,0.68,450,0.44200000000000006,0.5266,0,0.0,popularity
+16,Fundacio Joan Miro,Montjuic,0.59,280,0.3835,0.5338,0,0.0,popularity
+17,Poble Espanyol,Montjuic,0.58,500,0.377,0.6231,0,0.0,popularity
+18,Palau de la Musica,Sant Pere,0.67,300,0.6355000000000001,0.45489999999999997,0,0.0,popularity
+19,Camp Nou Museum,Les Corts,0.74,700,0.481,0.4313,0,0.0,popularity
+21,Tibidabo Park,Tibidabo,0.54,600,0.35100000000000003,0.5173,0,0.0,popularity
+33,CCCB,El Raval,0.48,300,0.512,0.48410000000000003,0,0.0,popularity
+22,Bunkers del Carmel,El Carmel,0.64,400,0.41600000000000004,0.5708,0,0.0,popularity
+23,Hospital de Sant Pau,Guinardo,0.62,400,0.403,0.5554,0,0.0,popularity
+24,Gracia Squares,Vila de Gracia,0.53,700,0.34450000000000003,0.6186,0,0.0,popularity
+25,Mercat dels Encants,Fort Pienc,0.47,500,0.3055,0.6164,0,0.0,popularity
+26,Design Museum,Glories,0.45,300,0.29250000000000004,0.5365,0,0.0,popularity
+27,Torre Glories,Glories,0.52,300,0.338,0.42490000000000006,0,0.0,popularity
+28,Rambla del Poblenou,Poblenou,0.45,600,0.29250000000000004,0.6300000000000001,0,0.0,popularity
+29,Bogatell Beach,Poblenou,0.46,800,0.29900000000000004,0.6152,0,0.0,popularity
+31,Sant Pau del Camp,El Raval,0.32,200,0.40800000000000003,0.5279,0,0.0,popularity
+32,Maritime Museum,El Raval,0.5,350,0.525,0.493,0,0.0,popularity
+60,Casa Vicens,Vila de Gracia,0.55,250,0.35750000000000004,0.5349999999999999,0,0.0,popularity
+0,Sagrada Familia,Sagrada Familia,1.0,900,0.8500000000000001,0.415,869,0.33,personalized
+6,Barri Gotic,Gotic,0.89,1000,0.7785,0.4868,769,0.169,personalized
+1,Park Guell,La Salut,0.95,850,0.6174999999999999,0.644,629,0.18235294117647058,personalized
+4,La Rambla,La Rambla,0.93,1200,0.8045,0.4116,556,0.14083333333333334,personalized
+7,Barcelona Cathedral,Gotic,0.84,550,0.746,0.42680000000000007,428,0.1781818181818182,personalized
+3,La Pedrera,Dreta Eixample,0.88,450,0.772,0.4031,403,0.19333333333333333,personalized
+5,Mercat de la Boqueria,El Raval,0.9,650,0.7850000000000001,0.4905,399,0.14,personalized
+20,Temple del Tibidabo,Tibidabo,0.55,450,0.35750000000000004,0.6300000000000001,397,0.21777777777777776,personalized
+47,Palo Alto Market,Poblenou,0.33,350,0.21450000000000002,0.6321000000000001,370,0.26,personalized
+8,Santa Maria del Mar,El Born,0.72,400,0.6679999999999999,0.47390000000000004,367,0.2025,personalized
+12,Barceloneta Beach,La Barceloneta,0.82,1100,0.7330000000000001,0.5384,334,0.06818181818181818,personalized
+2,Casa Batllo,Dreta Eixample,0.91,500,0.7915000000000001,0.3992,321,0.15,personalized
+23,Hospital de Sant Pau,Guinardo,0.62,400,0.403,0.5554,312,0.225,personalized
+30,Forum Park,Diagonal Mar,0.38,900,0.24700000000000003,0.6355999999999999,283,0.10222222222222223,personalized
+49,CosmoCaixa,Sant Gervasi,0.57,550,0.3705,0.5054000000000001,277,0.11454545454545455,personalized
+10,Ciutadella Park,Sant Pere,0.69,1000,0.6485,0.6553,260,0.068,personalized
+17,Poble Espanyol,Montjuic,0.58,500,0.377,0.6231,251,0.162,personalized
+25,Mercat dels Encants,Fort Pienc,0.47,500,0.3055,0.6164,221,0.1,personalized
+37,Sant Antoni Market,Sant Antoni,0.42,450,0.273,0.5794,207,0.1,personalized
+35,Born Centre Cultural,El Born,0.46,350,0.49900000000000005,0.5272,198,0.15142857142857144,personalized
+59,Olympic Port,La Barceloneta,0.5,700,0.525,0.46499999999999997,188,0.07285714285714286,personalized
+26,Design Museum,Glories,0.45,300,0.29250000000000004,0.5365,163,0.15333333333333332,personalized
+60,Casa Vicens,Vila de Gracia,0.55,250,0.35750000000000004,0.5349999999999999,161,0.208,personalized
+54,Mercat de la Llibertat,Vila de Gracia,0.29,300,0.1885,0.5808,153,0.17333333333333334,personalized
+15,MNAC,Montjuic,0.68,450,0.44200000000000006,0.5266,140,0.09555555555555556,personalized
+29,Bogatell Beach,Poblenou,0.46,800,0.29900000000000004,0.6152,139,0.04625,personalized
+38,Hostafrancs Market,Hostafrancs,0.3,350,0.195,0.5770000000000001,132,0.13142857142857142,personalized
+24,Gracia Squares,Vila de Gracia,0.53,700,0.34450000000000003,0.6186,128,0.05714285714285714,personalized
+28,Rambla del Poblenou,Poblenou,0.45,600,0.29250000000000004,0.6300000000000001,124,0.06333333333333334,personalized
+57,Natural Science Museum,Diagonal Mar,0.34,300,0.22100000000000003,0.5243,111,0.10333333333333333,personalized
+13,Montjuic Castle,Montjuic,0.63,500,0.40950000000000003,0.6511,107,0.062,personalized
+55,Guinardo Park,Guinardo,0.3,700,0.195,0.6905,93,0.05,personalized
+39,Joan Miro Park,Nova Esquerra Eixample,0.34,600,0.22100000000000003,0.7133,86,0.04666666666666667,personalized
+11,Arc de Triomf,Sant Pere,0.61,700,0.5965,0.4657,85,0.04428571428571428,personalized
+42,Labyrinth Park of Horta,Horta,0.37,500,0.2405,0.7469,78,0.078,personalized
+31,Sant Pau del Camp,El Raval,0.32,200,0.40800000000000003,0.5279,45,0.085,personalized
+45,Clot Park,El Clot,0.24,450,0.156,0.7247999999999999,44,0.051111111111111114,personalized
+58,Fabra Observatory,Tibidabo,0.28,200,0.18200000000000002,0.5876,42,0.065,personalized
+40,Pedralbes Monastery,Pedralbes,0.35,250,0.22749999999999998,0.737,35,0.06,personalized
+27,Torre Glories,Glories,0.52,300,0.338,0.42490000000000006,29,0.043333333333333335,personalized
+52,Creueta del Coll Park,La Salut,0.27,500,0.17550000000000002,0.7009000000000001,27,0.02,personalized
+46,Can Framis Museum,Poblenou,0.26,220,0.169,0.6252,18,0.04090909090909091,personalized
+43,Fabra i Coats,Sant Andreu,0.25,300,0.1625,0.636,11,0.013333333333333334,personalized
+41,Pedralbes Gardens,Pedralbes,0.31,650,0.2015,0.6921999999999999,7,0.004615384615384616,personalized
+14,Magic Fountain,Montjuic,0.76,900,0.49400000000000005,0.4937,2,0.0022222222222222222,personalized
+9,Picasso Museum,El Born,0.78,350,0.7070000000000001,0.46559999999999996,1,0.002857142857142857,personalized
+16,Fundacio Joan Miro,Montjuic,0.59,280,0.3835,0.5338,0,0.0,personalized
+22,Bunkers del Carmel,El Carmel,0.64,400,0.41600000000000004,0.5708,0,0.0,personalized
+56,Carretera de les Aigues,Collserola,0.26,800,0.169,0.6627000000000001,0,0.0,personalized
+21,Tibidabo Park,Tibidabo,0.54,600,0.35100000000000003,0.5173,0,0.0,personalized
+53,Sarria Old Town,Sarria,0.25,400,0.1625,0.6225,0,0.0,personalized
+19,Camp Nou Museum,Les Corts,0.74,700,0.481,0.4313,0,0.0,personalized
+51,Chocolate Museum,El Born,0.39,220,0.4535,0.4373,0,0.0,personalized
+50,Museu Frederic Mares,Gotic,0.36,180,0.434,0.4817,0,0.0,personalized
+18,Palau de la Musica,Sant Pere,0.67,300,0.6355000000000001,0.45489999999999997,0,0.0,personalized
+36,History Museum of Catalonia,La Barceloneta,0.44,300,0.48600000000000004,0.5043,0,0.0,personalized
+44,Sant Andreu Old Town,Sant Andreu,0.28,450,0.18200000000000002,0.6246,0,0.0,personalized
+32,Maritime Museum,El Raval,0.5,350,0.525,0.493,0,0.0,personalized
+33,CCCB,El Raval,0.48,300,0.512,0.48410000000000003,0,0.0,personalized
+34,MACBA,El Raval,0.56,320,0.5640000000000001,0.4852,0,0.0,personalized
+48,Torre Bellesguard,Sant Gervasi,0.29,180,0.1885,0.6128,0,0.0,personalized
+0,Sagrada Familia,Sagrada Familia,1.0,900,0.8500000000000001,0.415,412,0.10777777777777778,sustainable
+25,Mercat dels Encants,Fort Pienc,0.47,500,0.3055,0.6164,394,0.168,sustainable
+4,La Rambla,La Rambla,0.93,1200,0.8045,0.4116,370,0.0775,sustainable
+6,Barri Gotic,Gotic,0.89,1000,0.7785,0.4868,361,0.079,sustainable
+37,Sant Antoni Market,Sant Antoni,0.42,450,0.273,0.5794,355,0.17555555555555555,sustainable
+20,Temple del Tibidabo,Tibidabo,0.55,450,0.35750000000000004,0.6300000000000001,349,0.17333333333333334,sustainable
+5,Mercat de la Boqueria,El Raval,0.9,650,0.7850000000000001,0.4905,348,0.12,sustainable
+47,Palo Alto Market,Poblenou,0.33,350,0.21450000000000002,0.6321000000000001,336,0.20285714285714285,sustainable
+1,Park Guell,La Salut,0.95,850,0.6174999999999999,0.644,314,0.07764705882352942,sustainable
+38,Hostafrancs Market,Hostafrancs,0.3,350,0.195,0.5770000000000001,311,0.18857142857142858,sustainable
+26,Design Museum,Glories,0.45,300,0.29250000000000004,0.5365,306,0.20666666666666667,sustainable
+39,Joan Miro Park,Nova Esquerra Eixample,0.34,600,0.22100000000000003,0.7133,304,0.115,sustainable
+45,Clot Park,El Clot,0.24,450,0.156,0.7247999999999999,303,0.16,sustainable
+43,Fabra i Coats,Sant Andreu,0.25,300,0.1625,0.636,287,0.21,sustainable
+17,Poble Espanyol,Montjuic,0.58,500,0.377,0.6231,286,0.126,sustainable
+40,Pedralbes Monastery,Pedralbes,0.35,250,0.22749999999999998,0.737,283,0.244,sustainable
+30,Forum Park,Diagonal Mar,0.38,900,0.24700000000000003,0.6355999999999999,263,0.07333333333333333,sustainable
+49,CosmoCaixa,Sant Gervasi,0.57,550,0.3705,0.5054000000000001,260,0.10545454545454545,sustainable
+10,Ciutadella Park,Sant Pere,0.69,1000,0.6485,0.6553,260,0.063,sustainable
+23,Hospital de Sant Pau,Guinardo,0.62,400,0.403,0.5554,248,0.1325,sustainable
+53,Sarria Old Town,Sarria,0.25,400,0.1625,0.6225,247,0.1375,sustainable
+8,Santa Maria del Mar,El Born,0.72,400,0.6679999999999999,0.47390000000000004,216,0.125,sustainable
+59,Olympic Port,La Barceloneta,0.5,700,0.525,0.46499999999999997,200,0.07285714285714286,sustainable
+54,Mercat de la Llibertat,Vila de Gracia,0.29,300,0.1885,0.5808,197,0.14333333333333334,sustainable
+42,Labyrinth Park of Horta,Horta,0.37,500,0.2405,0.7469,196,0.09,sustainable
+35,Born Centre Cultural,El Born,0.46,350,0.49900000000000005,0.5272,190,0.13142857142857142,sustainable
+3,La Pedrera,Dreta Eixample,0.88,450,0.772,0.4031,175,0.09333333333333334,sustainable
+12,Barceloneta Beach,La Barceloneta,0.82,1100,0.7330000000000001,0.5384,172,0.04909090909090909,sustainable
+22,Bunkers del Carmel,El Carmel,0.64,400,0.41600000000000004,0.5708,161,0.0875,sustainable
+55,Guinardo Park,Guinardo,0.3,700,0.195,0.6905,159,0.06428571428571428,sustainable
+24,Gracia Squares,Vila de Gracia,0.53,700,0.34450000000000003,0.6186,156,0.04857142857142857,sustainable
+19,Camp Nou Museum,Les Corts,0.74,700,0.481,0.4313,139,0.04857142857142857,sustainable
+2,Casa Batllo,Dreta Eixample,0.91,500,0.7915000000000001,0.3992,125,0.056,sustainable
+56,Carretera de les Aigues,Collserola,0.26,800,0.169,0.6627000000000001,109,0.03125,sustainable
+28,Rambla del Poblenou,Poblenou,0.45,600,0.29250000000000004,0.6300000000000001,107,0.045,sustainable
+52,Creueta del Coll Park,La Salut,0.27,500,0.17550000000000002,0.7009000000000001,104,0.072,sustainable
+60,Casa Vicens,Vila de Gracia,0.55,250,0.35750000000000004,0.5349999999999999,96,0.104,sustainable
+57,Natural Science Museum,Diagonal Mar,0.34,300,0.22100000000000003,0.5243,95,0.08,sustainable
+46,Can Framis Museum,Poblenou,0.26,220,0.169,0.6252,91,0.11818181818181818,sustainable
+7,Barcelona Cathedral,Gotic,0.84,550,0.746,0.42680000000000007,89,0.038181818181818185,sustainable
+31,Sant Pau del Camp,El Raval,0.32,200,0.40800000000000003,0.5279,88,0.12,sustainable
+11,Arc de Triomf,Sant Pere,0.61,700,0.5965,0.4657,87,0.032857142857142856,sustainable
+41,Pedralbes Gardens,Pedralbes,0.31,650,0.2015,0.6921999999999999,83,0.043076923076923075,sustainable
+44,Sant Andreu Old Town,Sant Andreu,0.28,450,0.18200000000000002,0.6246,67,0.05555555555555555,sustainable
+15,MNAC,Montjuic,0.68,450,0.44200000000000006,0.5266,64,0.035555555555555556,sustainable
+13,Montjuic Castle,Montjuic,0.63,500,0.40950000000000003,0.6511,57,0.03,sustainable
+48,Torre Bellesguard,Sant Gervasi,0.29,180,0.1885,0.6128,55,0.07777777777777778,sustainable
+27,Torre Glories,Glories,0.52,300,0.338,0.42490000000000006,45,0.04,sustainable
+58,Fabra Observatory,Tibidabo,0.28,200,0.18200000000000002,0.5876,28,0.055,sustainable
+36,History Museum of Catalonia,La Barceloneta,0.44,300,0.48600000000000004,0.5043,20,0.02,sustainable
+29,Bogatell Beach,Poblenou,0.46,800,0.29900000000000004,0.6152,7,0.0075,sustainable
+9,Picasso Museum,El Born,0.78,350,0.7070000000000001,0.46559999999999996,5,0.008571428571428572,sustainable
+51,Chocolate Museum,El Born,0.39,220,0.4535,0.4373,5,0.00909090909090909,sustainable
+18,Palau de la Musica,Sant Pere,0.67,300,0.6355000000000001,0.45489999999999997,5,0.006666666666666667,sustainable
+21,Tibidabo Park,Tibidabo,0.54,600,0.35100000000000003,0.5173,4,0.0033333333333333335,sustainable
+16,Fundacio Joan Miro,Montjuic,0.59,280,0.3835,0.5338,3,0.007142857142857143,sustainable
+32,Maritime Museum,El Raval,0.5,350,0.525,0.493,2,0.002857142857142857,sustainable
+50,Museu Frederic Mares,Gotic,0.36,180,0.434,0.4817,1,0.005555555555555556,sustainable
+34,MACBA,El Raval,0.56,320,0.5640000000000001,0.4852,0,0.0,sustainable
+33,CCCB,El Raval,0.48,300,0.512,0.48410000000000003,0,0.0,sustainable
+14,Magic Fountain,Montjuic,0.76,900,0.49400000000000005,0.4937,0,0.0,sustainable

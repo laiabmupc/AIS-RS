@@ -1,0 +1,45 @@
+{
+  "popularity": {
+    "popularity": 0.8,
+    "budget": 0.1,
+    "distance": 0.06,
+    "culture": 0.04
+  },
+  "personalized": {
+    "interest": 0.55,
+    "popularity": 0.16,
+    "budget": 0.12,
+    "distance": 0.08,
+    "crowd_base": 0.05,
+    "crowd_user": 0.12,
+    "outdoor": 0.04,
+    "culture": 0.03
+  },
+  "sustainable": {
+    "social": {
+      "crowd": 0.298,
+      "neighbourhood_relief": 0.258,
+      "sustainable_value": 0.205,
+      "local_economy": 0.15,
+      "distance": 0.089
+    },
+    "personal": {
+      "interest": 0.471,
+      "budget": 0.149,
+      "distance": 0.169,
+      "outdoor": 0.1,
+      "popularity": 0.061,
+      "culture": 0.05
+    },
+    "alpha_base": 0.42,
+    "alpha_user": 0.28
+  },
+  "metadata": {
+    "source": "curated_rules_from_poi_statistics",
+    "popularity_gini": 0.2293,
+    "central_hotspot_share_top10": 0.8,
+    "pressure_signal": 0.4861,
+    "reason": "Rules are calibrated from popularity concentration and central hotspot pressure.",
+    "llm_usage": "LLM is used for a simple input audit and the final interpretation; simulation choices stay rule-based."
+  }
+}

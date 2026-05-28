@@ -1,0 +1,50 @@
+neighbourhood,visits,avg_satisfaction,central,visit_share,strategy
+Dreta Eixample,3121,0.5626956743942813,True,0.6242,popularity
+Gotic,824,0.6994138075129247,True,0.1648,popularity
+La Barceloneta,589,0.5639368499043473,True,0.1178,popularity
+Vila de Gracia,244,0.722858607942741,False,0.0488,popularity
+Glories,199,0.6497653971943109,False,0.0398,popularity
+Montjuic,21,0.6408306657461931,False,0.0042,popularity
+El Born,2,0.5783207826427925,True,0.0004,popularity
+Montjuic,845,0.7254340157855655,False,0.169,personalized
+Gotic,732,0.7430544802986254,True,0.1464,personalized
+Dreta Eixample,665,0.633067000341387,True,0.133,personalized
+Vila de Gracia,511,0.6843724817159254,False,0.1022,personalized
+La Barceloneta,428,0.7601545594562996,True,0.0856,personalized
+Pedralbes,316,0.7028671962602964,False,0.0632,personalized
+Glories,287,0.6886387145235829,False,0.0574,personalized
+Sant Gervasi,198,0.6611056818173747,False,0.0396,personalized
+Sant Marti,170,0.6981582999409103,False,0.034,personalized
+Diagonal Mar,164,0.7848623596879911,False,0.0328,personalized
+Port Vell,164,0.718499029644786,False,0.0328,personalized
+Sarria,129,0.6413787921772524,False,0.0258,personalized
+El Born,118,0.6084491873077933,True,0.0236,personalized
+Collserola,101,0.731909273337673,False,0.0202,personalized
+El Clot,78,0.6457103754032706,False,0.0156,personalized
+El Raval,68,0.7919164421713952,True,0.0136,personalized
+Horta,21,0.6281963739941743,False,0.0042,personalized
+El Carmel,3,0.6172858851237281,False,0.0006,personalized
+Guinardo,2,0.6197696836347746,False,0.0004,personalized
+Gotic,399,0.7873107755374129,True,0.0798,sustainable
+Vila de Gracia,350,0.7526335218894966,False,0.07,sustainable
+Montjuic,340,0.7720022297016351,False,0.068,sustainable
+Dreta Eixample,314,0.6804695143736454,True,0.0628,sustainable
+Pedralbes,310,0.7039288623956769,False,0.062,sustainable
+La Barceloneta,297,0.7829555240644902,True,0.0594,sustainable
+Sant Gervasi,252,0.6554405683049808,False,0.0504,sustainable
+El Clot,230,0.5745864085477618,False,0.046,sustainable
+Sarria,224,0.636012740185191,False,0.0448,sustainable
+Collserola,221,0.6378919141480132,False,0.0442,sustainable
+Diagonal Mar,212,0.760243715049675,False,0.0424,sustainable
+Sant Andreu,209,0.5456087692874106,False,0.0418,sustainable
+Sant Marti,199,0.6756358500906299,False,0.0398,sustainable
+Guinardo,194,0.5437833539965,False,0.0388,sustainable
+El Born,192,0.5249155025583337,True,0.0384,sustainable
+Horta,187,0.5786428553399444,False,0.0374,sustainable
+Port Vell,186,0.7184087824953994,False,0.0372,sustainable
+Glories,177,0.7990060545548382,False,0.0354,sustainable
+El Carmel,171,0.5125047771166915,False,0.0342,sustainable
+El Raval,138,0.7825102336002486,True,0.0276,sustainable
+Poble Sec,114,0.5426509135724085,False,0.0228,sustainable
+Poblenou,57,0.5125396101741319,False,0.0114,sustainable
+La Rambla,27,0.5866920715646194,True,0.0054,sustainable

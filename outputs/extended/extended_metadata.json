@@ -1,0 +1,17 @@
+{
+  "robustness_seeds": [
+    10,
+    20,
+    30,
+    40,
+    42,
+    50,
+    60,
+    70,
+    80,
+    90
+  ],
+  "n_tourists": 600,
+  "steps": 5,
+  "note": "Extended experiments use 600 agents to test robustness while keeping the additional analysis computationally manageable."
+}

@@ -1,0 +1,41 @@
+{
+  "popularity": {
+    "popularity": 0.8,
+    "budget": 0.1,
+    "distance": 0.06,
+    "culture": 0.04
+  },
+  "personalized": {
+    "interest": 0.55,
+    "popularity": 0.16,
+    "budget": 0.12,
+    "distance": 0.08,
+    "crowd_base": 0.05,
+    "crowd_user": 0.12,
+    "outdoor": 0.04,
+    "culture": 0.03
+  },
+  "sustainable": {
+    "social": {
+      "crowd": 0.3,
+      "neighbourhood_relief": 0.25,
+      "sustainable_value": 0.2,
+      "local_economy": 0.15,
+      "distance": 0.1
+    },
+    "personal": {
+      "interest": 0.48,
+      "budget": 0.15,
+      "distance": 0.16,
+      "outdoor": 0.1,
+      "popularity": 0.06,
+      "culture": 0.05
+    },
+    "alpha_base": 0.42,
+    "alpha_user": 0.28,
+    "diversity_rule": true
+  },
+  "metadata": {
+    "agent_reason": "The sustainable strategy reduces crowding and central hotspot pressure while considering tourist interests."
+  }
+}

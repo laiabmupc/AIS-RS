@@ -1,0 +1,62 @@
+poi_name,neighbourhood,lat,lon,categories,popularity,capacity,cost,outdoor,culture,local_economy,green
+Sagrada Familia,Sagrada Familia,41.4036,2.1744,"religious,architecture,museum",1.0,900,26,0.2,0.95,0.3,0.1
+Park Guell,La Salut,41.4145,2.1527,"park,architecture,viewpoint,family",0.95,850,10,0.9,0.85,0.35,0.9
+Casa Batllo,Dreta Eixample,41.3917,2.1649,"architecture,museum",0.91,500,35,0.2,0.9,0.3,0.05
+La Pedrera,Dreta Eixample,41.3954,2.1619,"architecture,museum",0.88,450,28,0.2,0.9,0.3,0.05
+La Rambla,La Rambla,41.38,2.173,"food,shopping,nightlife,local",0.93,1200,0,0.8,0.7,0.45,0.2
+Mercat de la Boqueria,El Raval,41.3817,2.1717,"market,food,local",0.9,650,0,0.3,0.7,0.85,0.1
+Barri Gotic,Gotic,41.3839,2.1763,"architecture,shopping,nightlife,local",0.89,1000,0,0.8,0.85,0.55,0.2
+Barcelona Cathedral,Gotic,41.3839,2.1762,"religious,architecture",0.84,550,14,0.2,0.92,0.35,0.05
+Santa Maria del Mar,El Born,41.3839,2.1821,"religious,architecture",0.72,400,5,0.2,0.9,0.5,0.05
+Picasso Museum,El Born,41.3852,2.1809,museum,0.78,350,14,0.1,0.94,0.45,0.05
+Ciutadella Park,Sant Pere,41.3881,2.1875,"park,family,local",0.69,1000,0,0.95,0.7,0.55,0.95
+Arc de Triomf,Sant Pere,41.391,2.1806,"architecture,viewpoint",0.61,700,0,0.9,0.7,0.45,0.25
+Barceloneta Beach,La Barceloneta,41.3784,2.1926,"beach,family,nightlife",0.82,1100,0,1.0,0.45,0.55,0.85
+Montjuic Castle,Montjuic,41.3635,2.166,"viewpoint,museum,family",0.63,500,12,0.75,0.86,0.45,0.65
+Magic Fountain,Montjuic,41.3712,2.1517,"viewpoint,family",0.76,900,0,0.95,0.6,0.4,0.45
+MNAC,Montjuic,41.3688,2.1534,"museum,viewpoint",0.68,450,12,0.2,0.95,0.42,0.1
+Fundacio Joan Miro,Montjuic,41.3686,2.1594,museum,0.59,280,15,0.2,0.91,0.45,0.1
+Poble Espanyol,Montjuic,41.3687,2.1484,"architecture,family,shopping,local",0.58,500,14,0.7,0.77,0.72,0.35
+Palau de la Musica,Sant Pere,41.3876,2.1753,architecture,0.67,300,18,0.15,0.94,0.35,0.05
+Camp Nou Museum,Les Corts,41.3809,2.1228,"museum,family",0.74,700,28,0.2,0.65,0.48,0.05
+Temple del Tibidabo,Tibidabo,41.4225,2.1186,"religious,viewpoint,architecture",0.55,450,0,0.75,0.88,0.4,0.55
+Tibidabo Park,Tibidabo,41.4218,2.1191,"family,viewpoint",0.54,600,35,0.8,0.5,0.45,0.5
+Bunkers del Carmel,El Carmel,41.4186,2.1619,"viewpoint,local",0.64,400,0,1.0,0.68,0.35,0.65
+Hospital de Sant Pau,Guinardo,41.4129,2.1744,"architecture,museum",0.62,400,16,0.45,0.92,0.42,0.22
+Gracia Squares,Vila de Gracia,41.402,2.1585,"food,nightlife,local",0.53,700,0,0.9,0.7,0.86,0.25
+Mercat dels Encants,Fort Pienc,41.4031,2.187,"market,shopping,local",0.47,500,0,0.45,0.65,0.95,0.18
+Design Museum,Glories,41.4032,2.1879,"museum,architecture",0.45,300,6,0.15,0.8,0.52,0.1
+Torre Glories,Glories,41.4036,2.1896,"architecture,viewpoint",0.52,300,15,0.2,0.6,0.4,0.05
+Rambla del Poblenou,Poblenou,41.4004,2.2038,"food,beach,local",0.45,600,0,0.9,0.62,0.86,0.35
+Bogatell Beach,Poblenou,41.3915,2.2053,"beach,family",0.46,800,0,1.0,0.35,0.62,0.86
+Forum Park,Diagonal Mar,41.4114,2.2236,"park,architecture,beach,family",0.38,900,0,0.95,0.45,0.55,0.85
+Sant Pau del Camp,El Raval,41.3764,2.1705,"religious,architecture",0.32,200,3,0.2,0.84,0.55,0.08
+Maritime Museum,El Raval,41.3769,2.1761,"museum,family",0.5,350,10,0.15,0.86,0.5,0.06
+CCCB,El Raval,41.383,2.1665,museum,0.48,300,8,0.1,0.83,0.5,0.05
+MACBA,El Raval,41.3839,2.1664,museum,0.56,320,12,0.2,0.86,0.48,0.08
+Born Centre Cultural,El Born,41.3847,2.1836,"museum,local",0.46,350,5,0.25,0.84,0.62,0.08
+History Museum of Catalonia,La Barceloneta,41.3801,2.1858,museum,0.44,300,6,0.2,0.83,0.55,0.06
+Sant Antoni Market,Sant Antoni,41.3787,2.1622,"market,food,local",0.42,450,0,0.35,0.58,0.94,0.1
+Hostafrancs Market,Hostafrancs,41.3769,2.1439,"market,food,local",0.3,350,0,0.35,0.52,0.94,0.1
+Joan Miro Park,Nova Esquerra Eixample,41.3796,2.1495,"park,family,local",0.34,600,0,0.95,0.5,0.75,0.88
+Pedralbes Monastery,Pedralbes,41.3957,2.1112,"religious,architecture,park",0.35,250,5,0.6,0.9,0.6,0.65
+Pedralbes Gardens,Pedralbes,41.3863,2.1184,"park,family",0.31,650,0,0.95,0.45,0.65,0.94
+Labyrinth Park of Horta,Horta,41.4387,2.1475,"park,family",0.37,500,2,0.95,0.7,0.58,0.96
+Fabra i Coats,Sant Andreu,41.4323,2.1907,"museum,local",0.25,300,0,0.25,0.67,0.92,0.15
+Sant Andreu Old Town,Sant Andreu,41.4351,2.1903,"food,local",0.28,450,0,0.85,0.62,0.92,0.18
+Clot Park,El Clot,41.4105,2.1872,"park,family,local",0.24,450,0,0.95,0.42,0.82,0.9
+Can Framis Museum,Poblenou,41.404,2.197,"museum,local",0.26,220,8,0.15,0.78,0.82,0.08
+Palo Alto Market,Poblenou,41.3991,2.2067,"market,food,shopping,local",0.33,350,5,0.6,0.55,0.96,0.28
+Torre Bellesguard,Sant Gervasi,41.4097,2.1269,architecture,0.29,180,16,0.45,0.86,0.55,0.22
+CosmoCaixa,Sant Gervasi,41.4132,2.1314,"museum,family,science",0.57,550,6,0.2,0.74,0.55,0.08
+Museu Frederic Mares,Gotic,41.3843,2.1768,museum,0.36,180,6,0.1,0.82,0.45,0.04
+Chocolate Museum,El Born,41.3868,2.1818,"museum,food,family",0.39,220,6,0.1,0.56,0.6,0.04
+Creueta del Coll Park,La Salut,41.4177,2.1481,"park,family",0.27,500,0,0.95,0.42,0.7,0.94
+Sarria Old Town,Sarria,41.3987,2.1213,"food,local",0.25,400,0,0.85,0.6,0.9,0.2
+Mercat de la Llibertat,Vila de Gracia,41.3998,2.1536,"market,food,local",0.29,300,0,0.35,0.52,0.95,0.1
+Guinardo Park,Guinardo,41.4165,2.1681,"park,viewpoint,family",0.3,700,0,0.95,0.44,0.65,0.94
+Carretera de les Aigues,Collserola,41.4158,2.104,"park,viewpoint",0.26,800,0,1.0,0.48,0.45,0.96
+Natural Science Museum,Diagonal Mar,41.4111,2.2193,"museum,family,science",0.34,300,6,0.2,0.72,0.55,0.06
+Fabra Observatory,Tibidabo,41.4182,2.1239,"science,viewpoint,family",0.28,200,15,0.6,0.68,0.48,0.4
+Olympic Port,La Barceloneta,41.387,2.1993,"beach,food,nightlife",0.5,700,0,0.9,0.4,0.65,0.35
+Casa Vicens,Vila de Gracia,41.4036,2.1507,"architecture,museum",0.55,250,18,0.35,0.88,0.45,0.12
