@@ -16,6 +16,7 @@ def parse_args():
     parser.add_argument("--model", default=DEFAULT_MODEL, help="Local Ollama model, for example ollama/qwen2.5:7b.")
     parser.add_argument("--outdir", type=Path, default=Path("output_agents"), help="Independent output folder.")
     parser.add_argument("--force", action="store_true", help="Regenerate agent data and overwrite previous output_agents results.")
+    parser.add_argument("--no-llm-text", action="store_true", help="Skip optional LLM audit and interpretation text generation.")
     return parser.parse_args()
 
 
@@ -177,7 +178,10 @@ def main():
 
     input_notes = build_input_audit_text(pois, tourist_profiles, rule_config)
     (args.outdir / "agent_input_notes.md").write_text(input_notes + "\n", encoding="utf-8")
-    (args.outdir / "agent_input_audit.md").write_text(write_input_audit(input_notes, args.outdir, model=args.model) + "\n", encoding="utf-8")
+    if args.no_llm_text:
+        (args.outdir / "agent_input_audit.md").write_text(input_notes + "\n\nOptional LLM audit skipped with --no-llm-text.\n", encoding="utf-8")
+    else:
+        (args.outdir / "agent_input_audit.md").write_text(write_input_audit(input_notes, args.outdir, model=args.model) + "\n", encoding="utf-8")
 
     results = {}
     for offset, strategy in enumerate(STRATEGIES):
@@ -190,7 +194,7 @@ def main():
     combined = save_results(results, pois, tourists, rule_config, args.outdir)
     result_notes = build_result_notes(combined["summary"])
     (args.outdir / "verified_findings.md").write_text(result_notes + "\n", encoding="utf-8")
-    llm_draft = write_agent_interpretation(result_notes, args.outdir, model=args.model)
+    llm_draft = "Optional LLM interpretation skipped with --no-llm-text." if args.no_llm_text else write_agent_interpretation(result_notes, args.outdir, model=args.model)
     (args.outdir / "agent_interpretation_llm_draft.md").write_text(llm_draft + "\n", encoding="utf-8")
     (args.outdir / "agent_interpretation.md").write_text(build_safe_interpretation(combined["summary"]) + "\n", encoding="utf-8")
 

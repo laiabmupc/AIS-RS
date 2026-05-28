@@ -18,7 +18,6 @@ The repository contains two implementations of the same evaluation idea. The fir
 ├── outputs/                 # Results of the controlled approach
 ├── output_agents/           # Results of the agent-heavy approach
 ├── figures/                 # Report figures for the controlled approach and extended analyses
-├── tables/                  # LaTeX tables generated from the controlled approach
 ├── requirements.txt         # Python dependencies
 ```
 
@@ -81,6 +80,7 @@ ollama/qwen2.5:3b
 ```
 
 If Ollama is not installed or the model is not available, the controlled simulator can still be inspected through the saved results in `outputs/`.
+For checking the agent-heavy simulator with the already generated agent data, the optional LLM-written audit and interpretation can be skipped with `--no-llm-text`.
 
 ## Running the Controlled Approach
 
@@ -101,7 +101,7 @@ python code/extended_analysis.py
 From the repository root:
 
 ```bash
-python code_agents/main.py --tourists 1000 --steps 5 --seed 42 --outdir output_agents
+python code_agents/main.py --tourists 1000 --steps 5 --seed 42 --outdir output_agents --no-llm-text
 ```
 
 To regenerate the LLM-agent inputs from scratch:
@@ -129,4 +129,3 @@ In the agent-heavy approach:
 - Personalized satisfaction: `0.7036`
 - Sustainable central visit share: `0.2734`
 - Popularity central visit share: `0.9072`
-
