@@ -1,4 +1,4 @@
-# AIS Sustainable POI Recommender Evaluation
+# Sustainable POI Recommender Evaluation
 
 This repository contains the code, generated data and results for an agent-based evaluation of sustainable tourism recommender systems for urban Points of Interest (POIs). The project compares three recommendation strategies:
 
